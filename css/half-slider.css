@@ -1,0 +1,83 @@
+/*!
+ * Start Bootstrap - Half Slider (https://startbootstrap.com/template-overviews/half-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-half-slider/blob/master/LICENSE)
+ */
+body {
+	background: #A05124 !important; 
+} 
+h1 {
+	color: #FFF !important; 
+	font-family: 'Raleway', sans-serif;
+
+}
+h2 {
+	color: #FFF !important; 
+	font-family: 'Raleway', sans-serif;
+}
+
+p {
+	color: #FFF !important;
+	font-family: 'Roboto', sans-serif;
+}
+a {
+	font-family: 'Raleway', sans-serif !important;
+}
+ /* unvisited link */
+a:link {
+    color: white;
+}
+
+/* mouse over link */
+
+a:hover {
+    color: #52B348;
+}
+
+/* selected link */
+a:active {
+    color: #D7B429;
+} 
+
+
+
+
+
+.email_link{
+	color: #FFF ;
+}
+.navbar_my_style {
+	font-family: 'Raleway', sans-serif !important;
+}
+.nav_main {
+	font-family: 'Raleway', sans-serif !important;
+}
+.nav_second {
+	font-family: 'Raleway', sans-serif !important;
+}
+.nav_third {
+	font-family: 'Raleway', sans-serif !important;
+}
+.nav_fourth {
+	font-family: 'Raleway', sans-serif !important;
+}
+
+
+.bg-dirty-white {
+	background-color: #FFF7D5 ;
+
+}
+.change-my-color
+{
+	fill: white; ;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
